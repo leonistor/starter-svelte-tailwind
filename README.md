@@ -1,6 +1,10 @@
 # svelte + tailwind starter
 
-https://github.com/matyunya/smelte
+Using https://github.com/matyunya/smelte to get the production build include all generated css.
+
+## pnpm
+
+Using [pnpm](https://pnpm.js.org/)
 
 ## Typeface install for tailwind
 
