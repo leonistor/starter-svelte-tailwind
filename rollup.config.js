@@ -28,7 +28,7 @@ export default {
       }
     }),
 
-    postcss({ extract: 'public/utils.css' }),
+    postcss({ extract: 'public/utils.css', minimize: production }),
 
     // If you have external dependencies installed from
     // npm, you'll most likely need these plugins. In
